@@ -4,7 +4,7 @@ Only for testing purpose
 <html>
   <head>
     <style>
-      h1 {
+      .h1 {
       color:blue;
       }
       </style>
