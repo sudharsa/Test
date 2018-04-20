@@ -6,6 +6,6 @@ Only for testing purpose
    
   </head>
   <body>
-  <h1 style="text-color:blue">hello</h1>
+  <h1 style="background-color:blue">hello</h1>
   </body>
   </html>
