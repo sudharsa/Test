@@ -3,13 +3,9 @@ Only for testing purpose
 
 <html>
   <head>
-    <style>
-      .h1 {
-      color:blue;
-      }
-      </style>
+   
   </head>
   <body>
-  <h1>hello</h1>
+  <h1 style="color:blue">hello</h1>
   </body>
   </html>
